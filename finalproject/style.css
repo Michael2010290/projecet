@@ -1,0 +1,30 @@
+#mainheader{
+    text-align: center;
+    font-family: cursive;
+    color: snow;
+}
+
+#weblinks{
+    background-color: snow;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+
+html{
+    background-color: lightskyblue;
+}
+
+#introp{
+    color: lightskyblue;
+    text-align: center;
+    font-size: large;
+    background-color: snow;
+    border-radius: 10px;
+}
+
+.webbuttons{
+    gap: 12px;
+    margin: 0 auto;
+    width: 600px;
+    display: grid;
+}
